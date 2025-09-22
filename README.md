@@ -1,0 +1,2 @@
+# MoviesSlider
+Simple Movies Slider
