@@ -18,3 +18,4 @@ The main focus was practicing **interactivity and DOM manipulation** using **Jav
 - Dark/Light mode toggle.
 - Pure JavaScript for all dynamic behavior (no changes in HTML/CSS).
 ---
+## Live Demo : https://mennahamadaelsba3i.github.io/MoviesSlider/
